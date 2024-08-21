@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BushenRaaj/Form1.git/static/css/main.603d3a54.css",
+    "main.js": "/BushenRaaj/Form1.git/static/js/main.3578f41c.js",
+    "index.html": "/BushenRaaj/Form1.git/index.html",
+    "main.603d3a54.css.map": "/BushenRaaj/Form1.git/static/css/main.603d3a54.css.map",
+    "main.3578f41c.js.map": "/BushenRaaj/Form1.git/static/js/main.3578f41c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.603d3a54.css",
+    "static/js/main.3578f41c.js"
+  ]
+}
